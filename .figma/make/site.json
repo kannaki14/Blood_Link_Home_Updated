@@ -1,0 +1,10 @@
+{
+  "description": "Connects blood donors with those in need, facilitating easy registration and donation through a user-friendly and responsive platform.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
