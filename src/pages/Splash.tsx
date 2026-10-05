@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router';
-import welcomeIllustration from '../assets/welcome-illustration.png';
+import welcomeIllustration from '../assets/welcome.png';
 
 function BloodDropIcon() {
   return (
