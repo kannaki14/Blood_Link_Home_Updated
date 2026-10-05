@@ -33,7 +33,7 @@ export default function Splash() {
           <img
             src={welcomeIllustration}
             alt=""
-            className="w-52 h-auto [image-rendering:crisp-edges]"
+            className="w-52 h-auto"
           />
         </div>
 
