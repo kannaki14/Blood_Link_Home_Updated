@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router';
-import welcomeIllustration from '../assets/welcome.png';
+
 
 function BloodDropIcon() {
   return (
@@ -31,7 +31,7 @@ export default function Splash() {
         {/* Illustration */}
         <div className="relative mb-8 w-52 h-52 flex items-center justify-center">
           <img
-            src={welcomeIllustration}
+            src="/welcome.png"
             alt=""
             className="w-52 h-auto"
           />
